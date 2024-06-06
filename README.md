@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shriganesh Lokapure.</h1>
 <h3 align="center">Empowering Innovations with Full Stack Expertise</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif">
-
-
 - 📫 How to reach me **shriganeshlokapure6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

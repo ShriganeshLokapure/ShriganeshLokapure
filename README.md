@@ -1,6 +1,6 @@
 # Hey 👋 What's up?
 
-I'm **Shriganesh Lokapure** — a Software Engineer with 4+ years of experience building scalable, real-time systems across **Finance and Healthcare domains**.
+I'm **Shriganesh Lokapure** a Software Engineer with 4+ years of experience building scalable, real-time systems across **Finance and Healthcare domains**.
 
 ---
 
@@ -59,7 +59,7 @@ JUnit • PyTest • Selenium
 
 ## 📫 Let's Connect
 
-💼 [LinkedIn](#)  
+💼 [LinkedIn](https://www.linkedin.com/in/shriganeshlokapure/)  
 📧 shriganeshlokapure01@gmail.com  
 
 ---

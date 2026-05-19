@@ -163,32 +163,4 @@ Instead of only showing code, here is how I think about building production syst
 
 ---
 
-## 🏗️ System Design I’ve Worked On
-
-```mermaid
-flowchart LR
-    A[User / Client Request] --> B[API Gateway]
-    B --> C[Spring Boot Microservices]
-    C --> D[Business Rules Engine]
-    C --> E[ML Scoring Service]
-    D --> F[Risk Decision Service]
-    E --> F
-    F --> G[(PostgreSQL / MySQL)]
-    F --> H[Event Queue: SQS / Kafka]
-    H --> I[Alerting Service]
-    H --> J[Monitoring Dashboard]
-    I --> K[Email / SMS / Notification]
-    J --> L[React + D3 Real-Time View]
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to collaborating on backend systems, cloud-native platforms, real-time data pipelines, AI/ML integrations, and full-stack engineering projects.
-
-📫 **Email:** shriganeshlokapure6@gmail.com  
-💼 **LinkedIn:** [Shriganesh Lokapure](https://www.linkedin.com/in/shriganeshlokapure/)
-
----
-
 ⭐ Thanks for visiting my profile!

@@ -156,16 +156,29 @@ Built a multimodal GAN pipeline using TensorFlow and Keras to improve image-text
 
 ---
 
-## GitHub Stats
+## 🧩 Engineering Portfolio Snapshot
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="160" />
-</p>
+Instead of only showing code, here is how I think about building production systems:  
+**clear architecture, reliable backend services, real-time data flow, strong observability, and measurable business impact.**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="160" />
-</p>
+---
+
+## 🏗️ System Design I’ve Worked On
+
+```mermaid
+flowchart LR
+    A[User / Client Request] --> B[API Gateway]
+    B --> C[Spring Boot Microservices]
+    C --> D[Business Rules Engine]
+    C --> E[ML Scoring Service]
+    D --> F[Risk Decision Service]
+    E --> F
+    F --> G[(PostgreSQL / MySQL)]
+    F --> H[Event Queue: SQS / Kafka]
+    H --> I[Alerting Service]
+    H --> J[Monitoring Dashboard]
+    I --> K[Email / SMS / Notification]
+    J --> L[React + D3 Real-Time View]
 
 ---
 
